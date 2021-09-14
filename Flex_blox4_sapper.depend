@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1631624299 source:c:\study\flex\12_09\flex_blox4_sapper\main.c
+	<windows.h>
+	<gl/gl.h>
+
